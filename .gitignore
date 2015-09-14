@@ -1,6 +1,6 @@
 /taskbuster/settings/private.py
 db.sqlite3
 __pycache__
-TaskBuster.sublime-workspace.coverage
-htmlcov
+TaskBuster.sublime-workspace
 .coverage
+htmlcov
